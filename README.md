@@ -1,6 +1,6 @@
 # Ansible Role: PHP
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-php.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-php)
+[![Build Status](https://travis-ci.org/setswei/ansible-role-php.svg?branch=master)](https://travis-ci.org/setswei/ansible-role-php) ![Build Status](http://bamboo.cybercrysis.net.au/plugins/servlet/wittified/build-status/SVR-ANPHP)
 
 Installs PHP on RedHat/CentOS and Debian/Ubuntu servers.
 
